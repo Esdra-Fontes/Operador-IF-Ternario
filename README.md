@@ -27,5 +27,6 @@ Operador-IF-Ternario/ │ ├── index.html
 - Utilização do operador condicional ternário em JavaScript
 - Diferença entre estruturas if/else e ternário
 - Estruturação simples de projeto web (O operador ternário é especialmente útil para expressões simples como alternativa ao if/else tradicional.)
+- Boas práticas na organização de projetos web
 
 👤 Autor: Esdra Fontes
