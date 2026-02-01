@@ -1,4 +1,4 @@
-🌐 **Operador IF-Ternário**
+🌐 Operador IF-Ternário:
 ---
 O If ternário é uma forma concisa de escrever estruturas `if-else` em uma única linha, ideal para atribuições simples baseadas em uma condição. Sua sintaxe `condição ? expr1 : expr2` avalia a condição e retorna `expr1` se for verdadeira ou `expr2` se for falsa 📌.
 
